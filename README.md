@@ -31,10 +31,11 @@ The API returns a JSON object with the following properties:
 # Example 💡
 
 ### base
-**curl --request GET \
+```bash curl --request GET \
 	--url 'https://ahrefs-api.p.rapidapi.com/check-dr-ar?domain=facebook.com' \
 	--header 'x-rapidapi-host: ahrefs-api.p.rapidapi.com' \
-	--header 'x-rapidapi-key: fd3f1114b1msh3d69719929fe501p1f1b72jsn2432d43bd3d1'**
+	--header 'x-rapidapi-key: fd3f1114b1msh3d69719929fe501p1f1b72jsn2432d43bd3d1'
+```
 
  # Response
 
