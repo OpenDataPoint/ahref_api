@@ -6,3 +6,9 @@ This endpoint allows you to retrieve the Domain Rating (DR) and Ahrefs Rank (AR)
 
 # Request 🔍
 GET https://ahrefs-api.p.rapidapi.com/check-dr-ar
+
+## Parameters
+
+|       Name         |Type                          |Description|
+|----------------|-------------------------------|-----------------------------|
+|    domain      |      string                   |The domain to check (required)    
