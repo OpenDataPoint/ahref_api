@@ -1,5 +1,3 @@
-# ahref_api
-
 # Ahrefs API 🚀
 The Ahrefs API provides access to powerful SEO metrics and data 📊. Currently, it offers one endpoint that delivers essential domain authority metrics.
 
