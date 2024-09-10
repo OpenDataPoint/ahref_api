@@ -29,7 +29,7 @@ The API returns a JSON object with the following properties:
 | ahrefs_rank    |      integer                  |Ahrefs Rank (AR) - lower numbers indicate higher rank   
 
 # Example 💡
-## Request
+
 ### base
 curl --request GET \
 	--url 'https://ahrefs-api.p.rapidapi.com/check-dr-ar?domain=facebook.com' \
@@ -37,11 +37,12 @@ curl --request GET \
 	--header 'x-rapidapi-key: fd3f1114b1msh3d69719929fe501p1f1b72jsn2432d43bd3d1'
 
  # Response
- ### json
+
  {
   "domain": "facebook.com",
   "domain_rating": 100,
   "ahrefs_rank": 1
 }
 
-This endpoint provides a quick way to assess the authority and popularity of a domain in the eyes of Ahrefs 🏆. Use it to compare websites, evaluate link prospects, or track your own domain's progress over time!
+
+### This endpoint provides a quick way to assess the authority and popularity of a domain in the eyes of Ahrefs 🏆. Use it to compare websites, evaluate link prospects, or track your own domain's progress over time!
