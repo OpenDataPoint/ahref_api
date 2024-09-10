@@ -46,3 +46,6 @@ curl --request GET \
 
 
 ### This endpoint provides a quick way to assess the authority and popularity of a domain in the eyes of Ahrefs 🏆. Use it to compare websites, evaluate link prospects, or track your own domain's progress over time!
+
+
+# [Check Ahrefs API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/ahrefs-api/playground)
